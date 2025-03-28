@@ -9,25 +9,26 @@ Features:
 2. Main Page Layout – Designed for easy navigation, featuring categorized news sections for better content discovery.
 3. News Detail Page – Clicking "Read More" navigates users to a dedicated page with an expanded article view.
 4. Authentication Pages – Login & Sign-Up pages maintain a consistent style across both themes.
+5. Breaking News Animation – The breaking news updates automatically every 5 seconds, ensuring users stay informed without refreshing the page or affecting other content.
 
-UI Design :
-1. Clean and Structured Layout
-  a. The main page follows a two-column layout, where users can see trending news alongside the trending headlines.
+UI Design:
+1. Clean and Structured Layout -
+  a. The main page follows a two-column layout, where users can see trending news alongside top headlines.
   b. A grid-based news category section allows users to explore different topics effortlessly.
 
-2. Dark & Light Theme Implementation
+2. Dark & Light Theme Implementation -
   a. Dark Mode enhances readability at night and reduces eye strain.
   b. Light Mode provides a traditional reading experience suitable for daytime usage.
 
-3. Navigation Simplicity
+3. Navigation Simplicity -
   a. The Login & Sign-Up pages are minimalistic and user-friendly.
   b. Clicking on a news article transitions seamlessly to a detailed news page.
+  c. Easy Theme Switching – Users can toggle between themes by clicking the theme switch icon in the navbar.
 
-How to Use:
+How to Use
 1. Open the main page, where users can browse trending and latest news.
 2. Click on "Read More" to navigate to the detailed news section.
-3. Use the authentication pages for signing up or logging in.
-4. Switch between light and dark themes based on preference easily by clicking on the icon from the navbar.
+3. Use the authentication pages for signing up or logging in and for navigating to the main page, click on the logo in the login and signup page.
+4. Switch between light and dark themes easily from the navbar icon.
 
 This design ensures a modern, accessible, and user-friendly experience while maintaining a professional and engaging layout.
-
