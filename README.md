@@ -1,4 +1,4 @@
-##the unedited vocies-ui
+_The Unedited Voices - ui_
 
 Link for the design : https://www.figma.com/design/pbREKdE8M8O2K960FrSfzF/The-Unedited-Voices?node-id=0-1&t=ZUahjGsoLNMURaNY-1
 
