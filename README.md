@@ -1,6 +1,6 @@
 _The Unedited Voices - ui_
 
-Link for the design : https://www.figma.com/design/pbREKdE8M8O2K960FrSfzF/The-Unedited-Voices?node-id=329-582&t=lToOQirWEnLanNes-1
+Link for the design : https://www.figma.com/design/pbREKdE8M8O2K960FrSfzF/The-Unedited-Voices?node-id=394-2317&t=hR9l7Qf7jFAHqTLY-1
 
 This project is a fully responsive news website UI designed with both light and dark themes to improve user experience. The interface is minimal yet visually structured, ensuring readability and smooth navigation.
 
