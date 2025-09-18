@@ -12,6 +12,7 @@ Features:
 5. Breaking News Animation – The breaking news updates automatically every 5 seconds, ensuring users stay informed without refreshing the page or affecting other content.
 
 UI Design:
+
 1. Clean and Structured Layout -
   a. The main page follows a two-column layout, where users can see trending news alongside top headlines.
   b. A grid-based news category section allows users to explore different topics effortlessly.
