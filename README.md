@@ -13,15 +13,15 @@ Features:
 
 UI Design:
 
-1. Clean and Structured Layout -
+1. Clean and Structured Layout:
   The main page follows a two-column layout, where users can see trending news alongside top headlines.
   A grid-based news category section allows users to explore different topics effortlessly.
 
-3. Dark & Light Theme Implementation -
+3. Dark & Light Theme Implementation:
   Dark Mode enhances readability at night and reduces eye strain.
   Light Mode provides a traditional reading experience suitable for daytime usage.
 
-5. Navigation Simplicity -
+5. Navigation Simplicity:
   The Login & Sign-Up pages are minimalistic and user-friendly.
   Clicking on a news article transitions seamlessly to a detailed news page.
   Easy Theme Switching – Users can toggle between themes by clicking the theme switch icon in the navbar.
